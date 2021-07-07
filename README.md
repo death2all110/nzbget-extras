@@ -1,0 +1,1 @@
+Docker image based on Linuxserver.io NZBGet image, but with [par2cmdline](https://github.com/Parchive/par2cmdline) & [nzbToMedia](https://github.com/clinton-hall/nzbToMedia) scripts added and their dependancies.
